@@ -6,7 +6,10 @@ Estou participando do Bootcamp da DIO e animada com os desafios e aprendizados! 
 💻 Foco atual: Desenvolvimento Back-end (Java)  
 📚 Sempre aprendendo, evoluindo e compartilhando!
 
-.	[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thayuaa-dev/)
+.	[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thayuana-dev)
+
+
+
 
 
 
